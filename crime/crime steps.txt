@@ -1,0 +1,33 @@
+http://localhost/crime/
+
+official login
+
+HQ Login
+head@kp
+head
+	Police Station
+		Add Police Station
+		
+official login
+
+Incharge Login
+	Police Officers
+		Add Police Officers
+
+Police Login
+
+Complain Registered by User
+
+official login
+Incharge Login
+Complain ID >> Search
+Select Police Officer Name >> Assign Case
+
+official login
+Police Login
+Complain ID >> Search
+Update Case Status
+
+Note : If you will get any issues, please contact debasis.mishra@sysoratech.com or debasis.sysora@gmail.com
+Contact Number : 9938632105
+
